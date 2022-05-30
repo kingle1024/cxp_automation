@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>신용.체크카드</description>
+   <name>payments_history_card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d70dd83f-c134-4573-9df8-8854aa93b464</testCaseGuid>
+</TestCaseEntity>

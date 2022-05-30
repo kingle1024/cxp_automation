@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>휴대폰 조회</description>
+   <name>003_mobile_phone</name>
+   <tag>phone</tag>
+   <comment></comment>
+   <testCaseGuid>c2bbffeb-b0a1-41c2-8414-6882849138a1</testCaseGuid>
+</TestCaseEntity>

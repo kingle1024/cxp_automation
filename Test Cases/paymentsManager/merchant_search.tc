@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>상점조회</description>
+   <name>merchant_search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c48ee951-ed9b-42bd-9394-b14ee4931af5</testCaseGuid>
+</TestCaseEntity>

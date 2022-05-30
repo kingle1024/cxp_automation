@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Dev</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://homepage-dev.tosspayments.com'</initValue>
+      <name>HOME_PAGE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://payments-manager.dev.tosspayments.bz'</initValue>
+      <name>PAYMENT_MANAGER</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

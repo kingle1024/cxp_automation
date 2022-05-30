@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>가상계좌 조회</description>
+   <name>004_virtual_account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee14f7a8-5c4a-465a-bb45-89e6e301ffea</testCaseGuid>
+</TestCaseEntity>

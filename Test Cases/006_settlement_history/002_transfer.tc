@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>계좌이체</description>
+   <name>002_transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eae778f1-f28d-4c5d-bd3b-ee6c50900a20</testCaseGuid>
+</TestCaseEntity>

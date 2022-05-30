@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>회사소개</description>
+   <name>company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f119f92-0fd8-4220-8ef1-e7b44af70337</testCaseGuid>
+</TestCaseEntity>

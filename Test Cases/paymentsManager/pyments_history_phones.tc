@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>휴대폰</description>
+   <name>pyments_history_phones</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79a9793d-2896-4bc2-91f8-de3c2598a862</testCaseGuid>
+</TestCaseEntity>

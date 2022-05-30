@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>SMS 발송</description>
+   <name>sms_template</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fea9e04a-cccd-468b-8bc3-66d5a3953406</testCaseGuid>
+</TestCaseEntity>
